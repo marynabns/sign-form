@@ -254,14 +254,14 @@ button:hover {
 }
 
 .fa-user{
-    background-image: url(images/user.png);
+    background-image: url(user.png);
     background-repeat: no-repeat;
     width: 13px;
     height: 16px;
 }
 
 .fa-lock{
-    background-image: url(images/lock.png);
+    background-image: url(lock.png);
     background-repeat: no-repeat;
     width: 16px;
     height: 16px;
